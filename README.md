@@ -18,6 +18,8 @@ Vi anvender en salgs MVC_pattern.
 - V(iew) - JSP og frontend (css, bootstrap mm)
 - C(ontrol) - Servlets
 - Husk ingen kommunikation mellem Model og View. Gå altid igennem controlleren
+
+## Opret Git Repo
 ```shell
 git init
 git add
@@ -25,6 +27,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/DenSonmez/intranat.git
 git push -u origin main
-
-
 ```
